@@ -13,5 +13,7 @@ public class BlogserverApplication {
         System.out.println("why");
         System.out.println("why");
         System.out.println("么么哒");
+        System.out.println("为战而生,至死方休");
+        System.out.println("asddasdasd");
     }
 }
