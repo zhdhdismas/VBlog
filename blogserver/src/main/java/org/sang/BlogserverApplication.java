@@ -10,5 +10,6 @@ public class BlogserverApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BlogserverApplication.class, args);
+        System.out.println("why");
     }
 }
