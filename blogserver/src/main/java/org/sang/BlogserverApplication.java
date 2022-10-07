@@ -12,5 +12,6 @@ public class BlogserverApplication {
         SpringApplication.run(BlogserverApplication.class, args);
         System.out.println("why");
         System.out.println("why");
+        System.out.println("么么哒");
     }
 }
